@@ -1,0 +1,7 @@
+*.iml
+.idea
+target
+distr
+shared-lib
+build.cmd
+/db/log
